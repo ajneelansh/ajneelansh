@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Neelansh, a passionate programmer with a growing interest in Web3 and blockchain technology. I'm excited about the future of these technologies and how they can change the way we interact with the digital world.
+Hi there! I'm Neelansh, a passionate programmer loves shipin cool shits...
 
 
 # 💻 Tech Stack:
