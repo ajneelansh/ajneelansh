@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Neelansh, a passionate programmer loves shipin' cool shits...
 
 
