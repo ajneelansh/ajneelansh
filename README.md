@@ -1,5 +1,5 @@
 
-Hi, I'm Neelansh,
+Hi, I'm Neelansh
 
 
 # 💻 Tech Stack:
