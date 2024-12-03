@@ -1,5 +1,5 @@
 
-Hi, I'm Neelansh, a passionate programmer loves shipin' cool shits...
+Hi, I'm Neelansh,
 
 
 # 💻 Tech Stack:
