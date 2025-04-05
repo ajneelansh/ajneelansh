@@ -1,5 +1,5 @@
 
-Hi, I'm Neelansh
+Hi, I'm Neelansh, a backend developer and web3 enthusiast
 
 
 # 💻 Tech Stack:
